@@ -1,3 +1,5 @@
+
+
 /*
  * ESP32-CAM Object Detection using Edge Impulse
  * by CircuitDigest (modified clean version)
